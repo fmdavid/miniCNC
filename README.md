@@ -6,7 +6,7 @@ En este proyecto con Arduino no hago nada nuevo, simplemente reproduzco lo ya re
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
-* [Vídeo](https://www.youtube.com/watch?v=kkkkk)  PENDIENTE
+* [Vídeo](https://youtu.be/Uyisg1a7rLg)
 
 ## Contenido
 
