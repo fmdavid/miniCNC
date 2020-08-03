@@ -5,7 +5,7 @@ int angulo = 0 ;
 void setup()
     {
       Serial.begin(9600);     // inicia la comunicación serial
-        servo1.attach(8) ;             // Conectar servo1 al pin 9
+        servo1.attach(8) ;             // Conectar servo1 al pin 8
     }
 
 void loop()
